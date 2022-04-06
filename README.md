@@ -1,3 +1,3 @@
 # Projects
 Discord Bot, Weather API, etc...
-Discord bot can't be fully published because it has my API key in it. If published, anyone could us emy key and use it for malice. Sorry :(
+Discord bot can't be fully published because it has my API key in it. If published, anyone could use my key and use it for malice. Sorry :(
