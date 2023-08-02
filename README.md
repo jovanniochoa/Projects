@@ -4,4 +4,4 @@ Discord bot **can't** be fully published because it has my API key in it. If pub
 
 Message me if you would like this bot to be in your discord server so I could give it the appropriate settings.
 
-This site was built using [Email](mailto:jovanniochoa38@gmail.com).
+Here is my [Email](mailto:jovanniochoa38@gmail.com).
